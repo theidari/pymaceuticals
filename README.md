@@ -3,7 +3,7 @@
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-10.png" width="180">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-12.png" width="80">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-9.png" width="100">
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-11.png" width="220">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-11.png" width="245">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/gif%201.gif" width="160"></br>
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-3.png" width="980"></br>
 </p>
