@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-2.png" width="980"></br>
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-10.png" width="200"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-12.png" width="90"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-9.png" width="110"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-11.png" width="260"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"></br>
-
-
-
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-10.png" width="200"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-12.png" width="90"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-9.png" width="110"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-11.png" width="260"><img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-13.png" width="28"><img src="https://github.com/theidari/pymaceuticals/blob/main/gif%202.gif" width="50"></br>
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-3.png" width="980"></br>
 </p>
 
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-16.png" width="50">ou've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
