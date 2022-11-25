@@ -4,4 +4,4 @@
 
 </p>
 
- #### Overview of Project <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-5.png" width="10">
+Overview of Project <img src="https://github.com/theidari/pymaceuticals/blob/main/Madule5-5.png" width="10">
