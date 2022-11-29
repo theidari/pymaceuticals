@@ -53,7 +53,11 @@ This project used python programming language and a Jupiter notebook to analyze 
 </P>
 
 ### Result <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="745"></br>
-        
+
+After the left merge of data (1893 rows), the results of 249 mice show that the mouse with ID g989 had a duplicate by mouse ID and timepoint. due to cleaning data of mouse ID g989 (13 rows) [fig][1], results show 248 mice in 1880 rows fig [2].</br>
+
+> [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/dataframe.png"></br>
 
 mouse before data cleaning: <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png">, and after cleaning duplicated data number of mouse is : <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png">
