@@ -180,5 +180,5 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 
 
 <p align="right">
-<a href="https://github.com/theidari/pandas-challenge#-overview-of-project"><sup><b>⬆ BACK TO TOP ⬆</b></sup></a>
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
 </P>
