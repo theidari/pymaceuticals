@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-2.png" width="980"></br>
 <a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-10.png" width="180"></a>
-<a href="https://github.com/theidari/pymaceuticals#code-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-12.png" width="80"></a>
+<a href="https://github.com/theidari/pymaceuticals/blob/main/pymaceuticals.ipynb"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-12.png" width="80"></a>
 <a href="https://github.com/theidari/pymaceuticals#result-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-9.png" width="100"></a>
 <a href="https://github.com/theidari/pymaceuticals#documents--references-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-11.png" width="245"></a>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8thoYWMUQ24ftGdSdEvC7Ilkm1dbplhM5USAkPDs4Qp3InA/viewform?usp=sf_link"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/gif%201.gif" width="160"></a></br>
