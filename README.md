@@ -48,13 +48,8 @@ This project used python programming language and a Jupiter notebook to analyze 
     * <b>Matplotlib v.3.6.0</b>
     * <b>NumPy v.1.23.4</b>
    
-    
-### Code <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="760"></br>
-
-<a href="https://github.com/theidari/pymaceuticals/blob/main/pymaceuticals.ipynb">Code</a>
-
 <p align="right">
-<a href="https://github.com/theidari/pandas-challenge#-overview-of-project"><sup><b>⬆ BACK TO TOP ⬆</b></sup></a>
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
 </P>
 
 ### Result <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="745"></br>
