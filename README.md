@@ -134,7 +134,7 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 </p>
 
 
-  - The below Figure is shown the average tumor volume vs. mouse weight for the Capomulin regimen, this treatment had a strong correlation with r2=0.84. so, the high weigh mouse had a bigger tumor.
+  - The below Figure is shown the average tumor volume vs. mouse weight for the Capomulin regimen, this treatment had a strong correlation with r<sup>2</sup>=0.84. so, the high weigh mouse had a bigger tumor.
 
 <h6> Fig [5]:reggretion</h6>
 
