@@ -54,21 +54,26 @@ This project used python programming language and a Jupiter notebook to analyze 
 
 ### Result <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="745"></br>
 
-After the left merge of data (1893 rows), the results of 249 mice show that the mouse with ID g989 had a duplicate by mouse ID and timepoint. due to cleaning data of mouse ID g989 (13 rows) [fig][1], results show 248 mice in 1880 rows fig [2].</br>
+After the left merge of data (1893 rows), the results of <a href="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png"><b>| 249 |</b></a> mice show that the mouse with <ins>ID g989</ins> had a duplicate by mouse ID and timepoint. due to cleaning data of mouse ID g989 (13 rows)<a href="https://github.com/theidari/pymaceuticals/edit/main/README.md#-fig-1-data-for-the-duplicate-mouse-id"><sup>Fig [1]</sup></a>, results show <a href="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png"><b>| 248 |</b></a> mice in 1880 rows Fig [2].</br>
 
-> [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+<h6> Fig [1]: data for the duplicate mouse ID</h6>
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/dataframe.png"></br>
+<p align="center">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/duplicatedataformiceid.png" width="800">
+</p>
+
+<h6> Fig [2]: new dataframe</h6>
+
+<p align="center">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/dataframe.png" width="800"></br>
+</p>
 
 mouse before data cleaning: <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png">, and after cleaning duplicated data number of mouse is : <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png">
 
-duplicated mouse id: 
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/miceduplicate.png">
 
 duplicated mouse list:
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/duplicatedataformiceid.png">
 
 Tumor Volume Statistic Summary:
 gereral method
