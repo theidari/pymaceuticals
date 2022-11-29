@@ -33,6 +33,74 @@ The executive team has tasked you with generating all of the tables and figures 
 </P>
 
 ### Result <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="745"></br>
+        
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/dataframe.png"></br>
+
+mouse before data cleaning: <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png">, and after cleaning duplicated data number of mouse is : <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png">
+
+duplicated mouse id: 
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/miceduplicate.png">
+
+duplicated mouse list:
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/duplicatedataformiceid.png">
+
+Tumor Volume Statistic Summary:
+gereral method
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstable.png">
+
+aggregation method
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstableagg.png">
+
+mice tested for each drug regimen:
+
+pandas
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandasbarchart.png">
+
+
+pyplot
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotbarchart.png">
+
+distribution of female versus male mice:
+
+pandas
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandaspiechart.png">
+
+
+pyplot
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotpiechart.png">
+
+outliers:
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/outliers.png">
+
+
+distrubution of the tumor volume for each treatment group:
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/boxplot.png">
+
+tumor volume vs. time point for a mouse treated with Capomulin:
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/Capomulintreatmentofmousel509.png">
+
+average tumor volume vs. mouse weight for the Capomulin regimen
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/averagetumorvolumevsmouseweight.png">
+
+linear regression
+
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/linear%20regression.png">
+
+
+
+
 
 ### Documents & References <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="575"></br>
 
