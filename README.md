@@ -20,12 +20,20 @@ The executive team has tasked you with generating all of the tables and figures 
 
 #### Methods and Software:</br>
   - The analyses were performed using the <a href="https://github.com/theidari/pandas-challenge/main/README.md#resources">Resources</a> dataset.</br>
-  - Following Software and programming language were used in this project:
+  
+  <a href="https://www.ibm.com/topics/linear-regression#:~:text=Resources-,What%20is%20linear%20regression%3F,is%20called%20the%20independent%20variable.">Linear Reression</a> dataset.</br>
+  
+  
+  - Following programming languages, software, and libraries were used in this project:
+    * <b>python v.3.9.13</b>
     * <b>jupyter notebook v.6.4.12</b>
     * <b>Visual Studio v.1.73.1</b>
     * <b>pandas v.1.4.4</b>
-    * <b>python v.3.9.13</b>
-
+    * <b>SciPy v.1.9.3</b>
+    * <b>Matplotlib v.3.6.0</b>
+    * <b>NumPy v.1.23.4</b>
+   
+    
 ### Code <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="760"></br>
 
 <a href="https://github.com/theidari/pymaceuticals/blob/main/pymaceuticals.ipynb">Code</a>
