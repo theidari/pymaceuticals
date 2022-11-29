@@ -125,10 +125,13 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/boxplot.png" width="550">
 </p>
 
-tumor volume vs. time point for a mouse treated with Capomulin:
+  - According to the following Figure<a href="https://github.com/theidari/pymaceuticals/blob/main/README.md#-fig-3-tumor-volume-vs.-time-point-and-mouse-plot"><sup>Fig [4]</sup></a>, Capomulin tumor volume vs. time point shows the effect of this treatment on mouse ID l509, also this changing size is shown graphically on mouse skin.
 
+<h6> Fig [4]:tumor volume vs. time point and mouse plot.</h6>
+
+<p align="center">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/Capomulintreatmentofmousel509.png" width="500"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/mice.gif" width="250"></br>
-
+</p>
 average tumor volume vs. mouse weight for the Capomulin regimen
 
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/averagetumorvolumevsmouseweight.png">
