@@ -88,7 +88,7 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 </p>
 
 
-  - Results indicate that the Number of mice tested by Capomulin was equal to Ramicane and more than other treatments, but we can not verify difference was significant.
+  - Results indicate that the Number of mice tested by Capomulin was equal to Ramicane and more than other treatments, but we can not verify difference was significant. Also, 51% of mice were male.
 
 <table align="center">
   <tr>
@@ -99,27 +99,11 @@ After the left merge of data (1893 rows), the results of <a href="https://github
     <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandasbarchart.png" width="400"></td>
     <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotbarchart.png" width="400"></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandaspiechart.png" width="400"></td>
+    <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotpiechart.png" width="400"></td>
+  </tr>
 </table>
-
-pandas
-
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandasbarchart.png">
-
-
-pyplot
-
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotbarchart.png">
-
-distribution of female versus male mice:
-
-pandas
-
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandaspiechart.png">
-
-
-pyplot
-
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotpiechart.png">
 
 outliers:
 
