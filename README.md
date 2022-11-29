@@ -72,8 +72,8 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 
 #### Summary Statistic:
 
-According to the following tables, <ins>Capomulin mean tumor volume is significantly smaller than other treatments</ins>. Moreover, Ramicane treatment is just can compete with capomulin. This pattern also is the same in median, variance standard deviation, and standard error.
-Tumor Volume Statistic Summary:
+According to the following tables, <ins>Capomulin mean tumor volume is significantly smaller than other treatments</ins>. Moreover, Ramicane treatment is just can compete with capomulin. This pattern also is the same in median, variance standard deviation, and standard error.<a href="https://github.com/theidari/pymaceuticals#-table-4-aggregation-method"><sup>Table [3,4]</sup></a>.</br>
+
 
 <h6> Table [3]: groupby method</h6>
 
@@ -81,10 +81,10 @@ Tumor Volume Statistic Summary:
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstable.png" width="850">
 </p>
 
-<h6> Table [3]: aggregation method</h6>
+<h6> Table [4]: aggregation method</h6>
 
 <p align="center">
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstableagg.png" width="500">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstableagg.png" width="450">
 </p>
 
 
