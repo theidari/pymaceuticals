@@ -98,7 +98,7 @@ distrubution of the tumor volume for each treatment group:
 
 tumor volume vs. time point for a mouse treated with Capomulin:
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/Capomulintreatmentofmousel509.png">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/Capomulintreatmentofmousel509.png"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/mice.gif"></br>
 
 average tumor volume vs. mouse weight for the Capomulin regimen
 
