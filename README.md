@@ -1,12 +1,14 @@
 <p align="center">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-2.png" width="980"></br>
 <a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-10.png" width="180"></a>
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-12.png" width="80">
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-9.png" width="100">
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-11.png" width="245">
+<a href="https://github.com/theidari/pymaceuticals#code-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-12.png" width="80"></a>
+<a href="https://github.com/theidari/pymaceuticals#result-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-9.png" width="100"></a>
+<a href="https://github.com/theidari/pymaceuticals#documents--references-"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-11.png" width="245"></a>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8thoYWMUQ24ftGdSdEvC7Ilkm1dbplhM5USAkPDs4Qp3InA/viewform?usp=sf_link"><img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/gif%201.gif" width="160"></a></br>
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="980"></br>
 </p>
+
+
 
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-16.png" width="50">ou've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
