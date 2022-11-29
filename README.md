@@ -53,36 +53,40 @@ This project used python programming language and a Jupiter notebook to analyze 
 </P>
 
 ### Result <img src="https://github.com/theidari/pymaceuticals/blob/main/Pic/Madule5-3.png" width="745"></br>
+#### Data Cleaning:
 
-After the left merge of data (1893 rows), the results of <a href="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png"><b>| 249 |</b></a> mice show that the mouse with <ins>ID g989</ins> had a duplicate by mouse ID and timepoint. due to cleaning data of mouse ID g989 (13 rows)<a href="https://github.com/theidari/pymaceuticals/edit/main/README.md#-fig-1-data-for-the-duplicate-mouse-id"><sup>Fig [1]</sup></a>, results show <a href="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png"><b>| 248 |</b></a> mice in 1880 rows Fig [2].</br>
+After the left merge of data (1893 rows), the results of <a href="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png"><b>| 249 |</b></a> mice show that the mouse with <ins>ID g989</ins> had a duplicate by mouse ID and timepoint. due to cleaning data of mouse ID g989 (13 rows)<a href="https://github.com/theidari/pymaceuticals/edit/main/README.md#-fig-1-data-for-the-duplicate-mouse-id"><sup>Table [1]</sup></a>, results show <a href="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png"><b>| 248 |</b></a> mice in 1880 rows <a href="https://github.com/theidari/pymaceuticals/blob/main/README.md#-fig-2-new-dataframe"><sup>Table [2]</sup></a>
+.</br>
 
-<h6> Fig [1]: data for the duplicate mouse ID</h6>
+<h6> Table [1]: data for the duplicate mouse ID</h6>
 
 <p align="center">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/duplicatedataformiceid.png" width="800">
 </p>
 
-<h6> Fig [2]: new dataframe</h6>
+<h6> Table [2]: new dataframe</h6>
 
 <p align="center">
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/dataframe.png" width="800"></br>
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/dataframe.png" width="700"></br>
 </p>
 
-mouse before data cleaning: <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/micebefore.png">, and after cleaning duplicated data number of mouse is : <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/miceafter.png">
+#### Summary Statistic:
 
-
-
-duplicated mouse list:
-
-
+According to the following tables, <ins>Capomulin mean tumor volume is significantly smaller than other treatments</ins>. Moreover, Ramicane treatment is just can compete with capomulin. This pattern also is the same in median, variance standard deviation, and standard error.
 Tumor Volume Statistic Summary:
-gereral method
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstable.png">
+<h6> Table [3]: groupby method</h6>
 
-aggregation method
+<p align="center">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstable.png" width="850">
+</p>
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstableagg.png">
+<h6> Table [3]: aggregation method</h6>
+
+<p align="center">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/summarystatisticstableagg.png" width="500">
+</p>
+
 
 mice tested for each drug regimen:
 
