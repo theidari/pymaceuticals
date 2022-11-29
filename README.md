@@ -94,7 +94,7 @@ outliers:
 
 distrubution of the tumor volume for each treatment group:
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/boxplot.png">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/boxplot.png" width="550">
 
 tumor volume vs. time point for a mouse treated with Capomulin:
 
