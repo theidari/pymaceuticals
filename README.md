@@ -30,20 +30,19 @@ This project used python programming language and a Jupiter notebook to analyze 
     - A row for each drug regimen.
     - A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
   - Generate <b>bar charts</b> that show <ins>the number of mice tested for each drug regimen</ins> and <b>pie charts</b> that show the distribution of <ins>females versus males</ins> with both Pandas `DataFrame.plot()` and Matplotlib's `pyplot` methods.
-iii)	Calculate Quartiles, Find Outliers, and Create a Box Plot for the four treatment groups, Capomulin, Ramicane, Infubinol, and Ceftamin.
-iv)	Generate line plot is generated that shows the tumor volume vs. time point for one mouse treated with Capomulin.
-v)	Generate scatter plot is generated that shows the average tumor volume vs. mouse weight for the Capomulin regimen And Calculate Correlation and Regression.
+  - Calculate Quartiles, Find Outliers, and Create a <b>Box Plot</b> for the four treatment groups, Capomulin, Ramicane, Infubinol, and Ceftamin.
+  - Generate line plot is generated that shows the <ins>tumor volume vs. time point</ins> for one mouse treated with <b>Capomulin</b>.
+  - Generate scatter plot is generated that shows the average <ins>tumor volume vs. mouse weight</ins> for the <b>Capomulin regimen</b> And Calculate <i>Correlation</i> and <i>Regression</i>.
 
 #### Methods and Software:</br>
-  - The analyses were performed using the <a href="https://github.com/theidari/pandas-challenge/main/README.md#resources">Resources</a> dataset.</br>
-  
-  <a href="https://www.ibm.com/topics/linear-regression#:~:text=Resources-,What%20is%20linear%20regression%3F,is%20called%20the%20independent%20variable.">Linear Reression</a> dataset.</br>
+  - The analyses were performed using the <a href="https://github.com/theidari/pandas-challenge/main/README.md#resources">Resources</a> dataset. and correlation checked by <a href="https://www.ibm.com/topics/linear-regression#:~:text=Resources-,What%20is%20linear%20regression%3F,is%20called%20the%20independent%20variable.">Linear Reression</a> method.</br>
   
   
   - Following programming languages, software, and libraries were used in this project:
     * <b>python v.3.9.13</b>
     * <b>jupyter notebook v.6.4.12</b>
     * <b>Visual Studio v.1.73.1</b>
+    * <b>PowerPoint v.16.0. 14026.20298.</b>
     * <b>pandas v.1.4.4</b>
     * <b>SciPy v.1.9.3</b>
     * <b>Matplotlib v.3.6.0</b>
