@@ -106,15 +106,24 @@ After the left merge of data (1893 rows), the results of <a href="https://github
     <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotpiechart.png" width="270"></td>
   </tr>
 </table>
+</br>
+</br>
 
-outliers:
+  - There was no outlier for Capomulin, but for Infubinol Tumor Volume 36.321346 was potential outlier<a href="https://github.com/theidari/pymaceuticals/blob/main/README.md#-fig-2-outlier"><sup>Fig [2]</sup></a>.
+<h6> Fig [2]: outlier</h6>
+<p align="center">
+<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/outliers.png" width="650">
+</p>
 
-<img src="https://github.com/theidari/pymaceuticals/blob/main/Results/outliers.png">
 
 
-distrubution of the tumor volume for each treatment group:
+  - Figure 3 <a href="https://github.com/theidari/pymaceuticals/blob/main/README.md#-fig-3-boxplot"><sup>Fig [3]</sup></a>. shows the distribution of the tumor volume for each treatment group, in this case, Capomulin was one of the best results with lower tumor volume.
+ 
+<h6> Fig [3]: boxplot for Capomulin, Ramicane, Infubinol, and Ceftamin.</h6>
 
+<p align="center">
 <img src="https://github.com/theidari/pymaceuticals/blob/main/Results/boxplot.png" width="550">
+</p>
 
 tumor volume vs. time point for a mouse treated with Capomulin:
 
