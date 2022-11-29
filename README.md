@@ -72,7 +72,7 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 
 #### Summary Statistic:
 
-According to the following tables, <ins>Capomulin mean tumor volume is significantly smaller than other treatments</ins>. Moreover, Ramicane treatment is just can compete with capomulin. This pattern also is the same in median, variance standard deviation, and standard error.<a href="https://github.com/theidari/pymaceuticals#-table-4-aggregation-method"><sup>Table [3,4]</sup></a>.</br>
+  - According to the following tables, <ins>Capomulin mean tumor volume was significantly smaller than other treatments</ins>. Moreover, Ramicane treatment was just can compete with capomulin. This pattern also was the same in median, variance standard deviation, and standard error.<a href="https://github.com/theidari/pymaceuticals#-table-4-aggregation-method"><sup>Table [3,4]</sup></a>.</br>
 
 
 <h6> Table [3]: groupby method</h6>
@@ -88,7 +88,18 @@ According to the following tables, <ins>Capomulin mean tumor volume is significa
 </p>
 
 
-mice tested for each drug regimen:
+  - Results indicate that the Number of mice tested by Capomulin was equal to Ramicane and more than other treatments, but we can not verify difference was significant.
+
+<table align="center">
+  <tr>
+    <th>Pandas <sup>DataFrame.plot()</sup></th>
+    <th>Matplotlib's <sup>pyplot</sup></th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pandasbarchart.png" width="400"></td>
+    <td><img src="https://github.com/theidari/pymaceuticals/blob/main/Results/pyplotbarchart.png" width="400"></td>
+  </tr>
+</table>
 
 pandas
 
