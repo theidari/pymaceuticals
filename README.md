@@ -88,8 +88,9 @@ After the left merge of data (1893 rows), the results of <a href="https://github
 </p>
 
 
-  - Results indicate that the Number of mice tested by Capomulin was equal to Ramicane and more than other treatments, but we can not verify difference was significant. Also, 51% of mice were male.
+  - Results indicate that the Number of mice tested by Capomulin was equal to Ramicane and more than other treatments, but we can not verify difference was significant. Also, 51% of mice were male <a href="https://github.com/theidari/pymaceuticals#-table-4-aggregation-method"><sup>Fig [1]</sup></a>.
   
+<h6> Fig [1]: bar chart and pie chart</h6>
 
 <table align="center">
   <tr>
